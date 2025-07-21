@@ -1,5 +1,3 @@
-### 1. Creating the Tables
-
 **Employees Table:**
 
 ```sql
